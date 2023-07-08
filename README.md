@@ -1,1 +1,1 @@
-# Personal_portfolio
+Hey what's up people, Ratnesh this side. It is always a first move for a CS undergrad to create his porfolio. So was mine, Finally I'm up with that, I've used HTML CSS and JAVA SCRIPT to complete my own portfolio. Let me tell you that you can serve through it from your mobile phones as well, Yes it's responsive.. hahaaa. Please find the list at the last to be redirected to my wesite. https://ratnesh0505.github.io/Personal_portfolio/
